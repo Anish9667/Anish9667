@@ -13,4 +13,5 @@ int main()
     int sizeofArray = 5;
   //  Array(arr, 5);
     cout<<sizeof(arr);
+    cout<<"Anish";
 }
