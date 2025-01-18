@@ -1,0 +1,63 @@
+
+body{
+    background-color: darkviolet;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    
+   }
+   .container{
+    width:80%;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: azure;
+    padding: 20px;
+    border-radius:10px ;
+   }
+    h1{
+font-size: 2rem;
+margin-bottom: 2rem;
+   }
+   #countdown{
+    display: flex;
+    justify-content: space-around;
+    gap:10px
+   }
+   
+   #countdown div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: grey;
+    padding: 20px;
+    color: black;
+    border-radius: 10px;
+    font-size: xx-large;
+  
+ 
+   
+    
+   
+   }
+   h2{
+    font-size: 2rem;
+    margin-bottom: 2rem;
+       }
+       .progress-container{
+        background: rebeccapurple;
+        width: 100%;
+        height:19px;
+        margin-bottom: 1.5rem;
+        border-radius: 5px;
+        overflow: hidden;
+       }
+       #progress-bar{
+        background-color: greenyellow;
+        width: 0%;
+        height: 100%;
+        transition: width 1s ease-in-out;
+       }
+   
