@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on JavaScript..
+- 🔭 I’m currently working on AI/ML..
 - 🌱 I’m currently learning On Making Live Project...
 - 😄 Pronouns:   Anish...
 
